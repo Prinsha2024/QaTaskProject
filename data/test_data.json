@@ -1,0 +1,10 @@
+{
+    "valid_user": {
+        "username": "test_user@gmail.com",
+        "password": "correct_password"
+    },
+    "invalid_user": {
+        "username": "wrong_user@gmail.com",
+        "password": "incorrect_password"
+    }
+}
